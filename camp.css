@@ -1,0 +1,39 @@
+body{
+   background-color: skyblue;
+   border-radius: 1%;
+}
+.WORLD{
+   margin: 10px;
+   border: solid white;
+   width: 370px;
+   border-radius: 3%;
+   background-color: antiquewhite;
+}
+.CO{
+    margin: 10px;
+    
+}
+.img{
+   border-radius: 5%;
+}
+h1{
+   margin: 10px;
+}
+.CONTINENTS{ 
+   border: solid white;
+   margin: 10px;
+   border-radius: 3%;
+   width: 370px;
+   background-color: antiquewhite;
+}
+.img2{
+   border: 7px solid bisque;
+   height: 100px;
+   width: 100px;
+   border-radius: 100%;
+}
+.pp1{
+   margin: 10px;
+   font-size: large;
+   
+}
