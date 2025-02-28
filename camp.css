@@ -1,13 +1,13 @@
 body{
-   background-color: skyblue;
+   background-color: #00FFFF;
    border-radius: 1%;
 }
 .WORLD{
    margin: 10px;
-   border: solid white;
+   border: solid wheat;
    width: 370px;
    border-radius: 3%;
-   background-color: antiquewhite;
+   background-color:wheat ;
 }
 .CO{
     margin: 10px;
